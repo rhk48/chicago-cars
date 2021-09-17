@@ -6,7 +6,7 @@
 # Overview
 We looked at data from the [Chicago Data Portal](https://data.cityofchicago.org/), specifically on [reported car accidents](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) within the city. We stratified the data to begin from Jan 1, 2019 through Sep 12, 2021 (the most recent update from when we pulled the data).<br>
   
-Our final dataframe contained about 270,000 records to analyze.
+Our final data frame contained about 270,000 records to analyze.
   
 # Business Problem
 ### The Chicago City Council wants to reduce the number of serious accidents in their city.<br>
@@ -59,3 +59,4 @@ Our recommendations include:<br>
   * Quicker maintenance on most frequently used roads
   * Create safer and more reliable rush hour commuting environments and transportation options
   * Increase number of first aid responders on-duty during these times
+
