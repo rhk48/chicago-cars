@@ -23,7 +23,7 @@ Our final data frame contained about 270,000 records to analyze.
   * Simple reason for crash<br>
 
 # Initial findings
-  * About 36% of all accidents occur during reekday rush hour.
+  * About 36% of all accidents occur during weekday rush hour.
   * Certain roads have defects that lead to more accidents, with the main offender being Western Ave (see below).
   * Disobeying the rules of the road, along with drug/alcohol abuse, lead to most accidents that result in injury.<br>
   
